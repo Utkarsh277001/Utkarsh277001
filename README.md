@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Utkarsh277001
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in App Development
 - 🌱 I’m currently learning java oops concept for android
-- 💞️ I’m in 5th sem of my BTech CSE
+- 💞️ I’m in 6th sem of my BTech CSE
 thanks and have a nice day
 
 
